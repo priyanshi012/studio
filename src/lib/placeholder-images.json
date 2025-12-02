@@ -1,3 +1,106 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "hero-1",
+      "description": "Online shopping lifestyle",
+      "imageUrl": "https://images.unsplash.com/photo-1605902711834-8b11c3e3ef2f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxzaG9wcGluZyUyMG9ubGluZXxlbnwwfHx8fDE3NjQ2MjQ0NjV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "shopping online"
+    },
+    {
+      "id": "laptop-1",
+      "description": "Front view of a sleek laptop",
+      "imageUrl": "https://images.unsplash.com/photo-1453928582365-b6ad33cbcf64?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8bGFwdG9wJTIwY29tcHV0ZXJ8ZW58MHx8fHwxNzY0NTY2NzczfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "laptop computer"
+    },
+    {
+      "id": "laptop-2",
+      "description": "Side view of a sleek laptop",
+      "imageUrl": "https://images.unsplash.com/photo-1647097947896-50311f28611f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxsYXB0b3AlMjBrZXlib2FyZHxlbnwwfHx8fDE3NjQ2NTUzODl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "laptop keyboard"
+    },
+    {
+      "id": "headphones-1",
+      "description": "Wireless headphones on a stand",
+      "imageUrl": "https://images.unsplash.com/photo-1612478120623-0acf9e231d27?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxoZWFkcGhvbmVzJTIwYXVkaW98ZW58MHx8fHwxNzY0NjA3NzAwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "headphones audio"
+    },
+    {
+      "id": "headphones-2",
+      "description": "Close-up of headphone ear cup",
+      "imageUrl": "https://images.unsplash.com/photo-1675151637366-38ba9bb92f5a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxoZWFkcGhvbmVzJTIwZGV0YWlsfGVufDB8fHx8MTc2NDY1NTM4OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "headphones detail"
+    },
+    {
+      "id": "jacket-1",
+      "description": "Man wearing a stylish jacket",
+      "imageUrl": "https://images.unsplash.com/photo-1706765779533-6c0210fab380?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxqYWNrZXQlMjBmYXNoaW9ufGVufDB8fHx8MTc2NDY0ODU5Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "jacket fashion"
+    },
+    {
+      "id": "jacket-2",
+      "description": "Close-up of jacket fabric",
+      "imageUrl": "https://images.unsplash.com/photo-1599568723850-14196ee0f991?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxqYWNrZXQlMjB0ZXh0dXJlfGVufDB8fHx8MTc2NDY1NTM4OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "jacket texture"
+    },
+    {
+      "id": "watch-1",
+      "description": "Leather strap watch on a wrist",
+      "imageUrl": "https://images.unsplash.com/photo-1678775970367-08f8d679e424?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx3YXRjaCUyMHRpbWV8ZW58MHx8fHwxNzY0NjU1Mzg5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "watch time"
+    },
+    {
+      "id": "watch-2",
+      "description": "Watch face close-up",
+      "imageUrl": "https://images.unsplash.com/photo-1661030419848-59084bc337b1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx3YXRjaCUyMGRpYWx8ZW58MHx8fHwxNzY0NjU1Mzg5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "watch dial"
+    },
+    {
+      "id": "coffee-maker-1",
+      "description": "AeroPress coffee maker in use",
+      "imageUrl": "https://images.unsplash.com/photo-1638129284529-bed6d6f588e7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxjb2ZmZWUlMjBtYWtlcnxlbnwwfHx8fDE3NjQ1NzY1OTd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "coffee maker"
+    },
+    {
+      "id": "coffee-maker-2",
+      "description": "Cup of coffee next to AeroPress",
+      "imageUrl": "https://images.unsplash.com/photo-1627902511858-6ad7e004fd35?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjb2ZmZWUlMjBicmV3aW5nfGVufDB8fHx8MTc2NDY1NTM4OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "coffee brewing"
+    },
+    {
+      "id": "chair-1",
+      "description": "Ergonomic office chair in a room",
+      "imageUrl": "https://images.unsplash.com/photo-1688578735122-f37256f1b8b0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxvZmZpY2UlMjBjaGFpcnxlbnwwfHx8fDE3NjQ2MjQzNjZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "office chair"
+    },
+    {
+      "id": "chair-2",
+      "description": "Close-up of chair's lumbar support",
+      "imageUrl": "https://images.unsplash.com/photo-1688578735972-b61ec274df7b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxjaGFpciUyMGVyZ29ub21pY3xlbnwwfHx8fDE3NjQ2NTUzODl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "chair ergonomic"
+    },
+    {
+      "id": "tv-1",
+      "description": "Smart TV displaying a colorful image",
+      "imageUrl": "https://images.unsplash.com/photo-1461151304267-38535e780c79?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxzbWFydCUyMHR2fGVufDB8fHx8MTc2NDYwMjc0Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "smart tv"
+    },
+    {
+      "id": "tv-2",
+      "description": "Side view of a thin smart TV",
+      "imageUrl": "https://images.unsplash.com/photo-1759577168838-5f8382e23cee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHx0ZWxldmlzaW9uJTIwc2NyZWVufGVufDB8fHx8MTc2NDY0OTkwNXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "television screen"
+    },
+    {
+      "id": "boots-1",
+      "description": "Pair of sturdy hiking boots",
+      "imageUrl": "https://images.unsplash.com/photo-1559506026-181ed433f0b0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxoaWtpbmclMjBib290c3xlbnwwfHx8fDE3NjQ2MjE5OTl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "hiking boots"
+    },
+    {
+      "id": "boots-2",
+      "description": "Hiking boots on a trail",
+      "imageUrl": "https://images.unsplash.com/photo-1594829858233-0e1f24359d5e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxib290cyUyMGFkdmVudHVyZXxlbnwwfHx8fDE3NjQ2NTUzODl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "boots adventure"
+    }
+  ]
 }
